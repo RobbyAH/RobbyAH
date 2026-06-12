@@ -19,13 +19,13 @@
   </h4>
 
   <p align="center">
-    <a href="https://linkedin.com/in/robbyardiansyah">
+    <a href="https://www.linkedin.com/in/robbyardiansyah24/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
     </a>
-    <a href="https://instagram.com/robbyardiansyah">
+    <a href="https://instagram.com/r.ardnsyah._">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/>
     </a>
-    <a href="mailto:robbyardiansyah@example.com">
+    <a href="mailto:robbyhudaya21@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
     </a>
   </p>
@@ -145,22 +145,22 @@ Sebagai mahasiswa Sistem Informasi, saya senang mengeksplorasi dunia pengembanga
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /><br>
-      <b>MongoDB</b>
+      <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" /><br>
+      <b>PHP</b>
     </td>
-    <td><br>Database NoSQL berbasis dokumen untuk fleksibilitas data.</td>
+    <td><br>Bahasa pemrograman server-side yang banyak digunakan untuk web.</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" /><br>
+      <b>Laravel 11</b>
+    </td>
+    <td><br>Framework PHP modern yang elegan untuk aplikasi web.</td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" /><br>
       <b>MySQL</b>
     </td>
     <td><br>Relational database management system yang populer.</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" /><br>
-      <b>PostgreSQL</b>
-    </td>
-    <td><br>Database relasional open-source yang tangguh.</td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /><br>
       <b>Supabase</b>
@@ -192,7 +192,7 @@ Sebagai mahasiswa Sistem Informasi, saya senang mengeksplorasi dunia pengembanga
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RobbyAH/robby/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/RobbyAH/robbyardiansyah/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 ### ✍️ Random Dev Quote
