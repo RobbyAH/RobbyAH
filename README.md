@@ -179,8 +179,8 @@ Sebagai mahasiswa Sistem Informasi, saya senang mengeksplorasi dunia pengembanga
 ### 📊 Adventure Log (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-robby.vercel.app/api?username=RobbyAH&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160"/>
-  <img src="https://github-readme-stats-robby.vercel.app/api/top-langs/?username=RobbyAH&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RobbyAH&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbyAH&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff" height="160"/>
 </div>
 
 <div align="center">
