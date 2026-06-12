@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./asset/gif/header.gif" width="100%" height="340px" alt="Robby's Header" style="border-radius: 15px; object-fit: cover;">
+  <img src="./assets/gif/programmer.gif" width="100%" height="340px" alt="Robby's Header" style="border-radius: 15px; object-fit: cover;">
 </div>
 
 <div align="center">
