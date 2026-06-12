@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/robbyardiansyah24/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
     </a>
-    <a href="https://instagram.com/r.ardnsyah._">
+    <a href="https://www.instagram.com/r.ardnsyh._?igsh=em5iNTFxNnhjdGtq">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/>
     </a>
     <a href="mailto:robbyhudaya21@gmail.com">
@@ -192,7 +192,11 @@ Sebagai mahasiswa Sistem Informasi, saya senang mengeksplorasi dunia pengembanga
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RobbyAH/robbyardiansyah/output/github-contribution-grid-snake.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobbyAH/RobbyAH/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobbyAH/RobbyAH/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RobbyAH/RobbyAH/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ### ✍️ Random Dev Quote
